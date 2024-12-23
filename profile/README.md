@@ -5,5 +5,6 @@ Research Areas:
 * Tunnel defects identification
 * Big data-driven forest fire detection
 * Pine wilt disease detection
+  
 We pride ourselves on fostering a collaborative environment and maintaining strong connections with industry and academia worldwide.
 
